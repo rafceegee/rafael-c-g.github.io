@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: rcgottardo.github.io/sitemap.xml
